@@ -1,0 +1,57 @@
+body {
+    background-color: #f3e3d3;
+    }
+
+    /*contenido de definicion y caracteristicas*/
+.descripcion{
+    width: 800px;
+    background: #f2e8e1;
+    padding: 10px 30px;
+    margin-left: 180px;
+}
+
+.descripcion h1{
+    text-align: left;
+    font-size: 3.5em;
+    color: #704214;
+    margin-top: 100px;
+
+}
+
+.descripcion p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: #684c34;
+    display: block;
+    
+}
+
+.descripcion img{
+    width: 450px;
+    height: 350px;
+}
+
+
+
+nav {
+   
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: #996b42;
+  }
+
+
+  
+ .lista1 li {
+    padding: 5px 10px; /* Agrega un poco de espacio alrededor de cada elemento */
+    background-color: #e5d2c4; /* Agrega un fondo a cada elemento */
+    border-bottom: 1px solid #e5d2c4; /* Agrega una línea de separación entre cada elemento */
+    font-size: 1.5em;
+    color:#341100;
+    margin-block-end: 20px;
+    margin-block-start: 20px;
+    float: none;
+  }
+

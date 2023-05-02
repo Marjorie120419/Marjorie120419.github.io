@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    background-color: #f3e3d3;
+    
+}
+h1{
+    font-size: 2.3em;
+    text-align: center;
+    color: #78451a;
+    margin-top: 100px;
+    text-decoration: none;
+
+}
+
+
+
+#superior{
+    width: 100%;
+    padding: 40px 0px;
+    background-color: #996b42;
+}
+
+#encabezado{
+    margin: 0px auto;
+    width: 960px;
+}
+
+#etapa{
+    width: 360px;
+    height: 360px;
+    background-color: #cba075;
+    float: right;
+    
+}
+
+#etapa p{
+    margin: 10px;
+    color: #834f23;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 1em;
+    line-height: 180%;
+    text-align: justify;
+    text-decoration: none;
+    
+}
+#contenido{
+    width: 800px;
+    height: 900px;
+    margin: 0px auto;
+    clear: left;
+}

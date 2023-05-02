@@ -1,0 +1,58 @@
+body {
+    background-color: #f3e3d3;
+    }
+
+.datos{
+    color:#341100;
+    margin-top: 100px;
+    
+}
+
+.datos form{
+    width: 1000px;
+    height: 500px;
+    border-radius: 15px;
+    padding: 22px;
+    margin: 20px auto;
+}
+
+.datos fieldset{
+    font-family: Century Gothic;
+    padding: 20px;
+    float: left;
+    width: 40%;
+    margin-top: 5px;
+    border-radius: 10px;
+    height: 200px;
+    margin-left: 252px;
+    
+}
+
+.datos img{
+    float: left;
+    width: 210px;
+    height: 210px;
+    border-radius: 5px;
+    margin: 0px 22px;
+    transform: translateY(24%);
+}
+
+.datos p{
+    margin-top: 15%;
+    padding-bottom: 15%;
+    font-size: 48px;
+    text-align: center;
+}
+
+form{
+    font-family: Century Gothic;
+    background-color: #ae9c8f;;
+    box-shadow: #69503c;
+    
+}
+
+h1{
+    padding-top: 40px;
+    color:#341100;
+    font-size: 60px;
+}
